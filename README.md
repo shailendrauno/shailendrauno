@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shailendrauno
 - 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate with @pranjulkushwaha
 - 📫 Reach me: [shailendrauno@gmail.com](shailendrauno@gmail.com)
 - 😄 Pronouns: He/Him
